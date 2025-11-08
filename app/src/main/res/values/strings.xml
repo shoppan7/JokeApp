@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Joke App</string>
+
+    <string name="about_title">Sobre o App</string>
+    <string name="about_description">
+    Este aplicativo traz piadas do Chuck Norris para você se divertir todos os dias,
+    com tradução automática e notificações diárias.
+</string>
+
+    <string name="credits_full">
+    Créditos:
+    • API de piadas: Chuck Norris API (api.chucknorris.io)
+    • Tradução: DeepL API
+    • Imagens: Sora AI (backgrounds)
+    • Este app não possui vínculo oficial com Chuck Norris.
+</string>
+    <string name="search_jokes">Digite algo para buscar piadas</string>
+    <string name="search_joke">Buscar Piada</string>
+
 </resources>
